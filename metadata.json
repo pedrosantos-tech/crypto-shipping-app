@@ -1,0 +1,5 @@
+{
+  "name": "ShipCrypto Pro",
+  "description": "Professional shipping label platform with crypto payments. Features wallet management, label creation with autocomplete, and history tracking.",
+  "requestFramePermissions": []
+}
